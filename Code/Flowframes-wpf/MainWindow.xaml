@@ -36,9 +36,9 @@
                               IsChecked="True">
                         <Grid>
                             <Image Source="Images/img_home.png"
-                                   Style="{StaticResource Image_Style}"/>
+                                   Style="{StaticResource ImageStyle}"/>
                             <TextBlock Text="Home"
-                                       Style="{StaticResource Text_Style}" />
+                                       Style="{StaticResource TextStyle}" />
                         </Grid>
                     </Menu:Btn>
                     <Menu:Btn Style="{StaticResource BtnStyle}"
@@ -47,10 +47,10 @@
                         <Grid>
 
                             <Image Source="Images/img_home.png"
-                                   Style="{StaticResource Image_Style}" />
+                                   Style="{StaticResource ImageStyle}" />
 
                             <TextBlock Text="Interpolation"
-                                       Style="{StaticResource Text_Style}" />
+                                       Style="{StaticResource TextStyle}" />
 
                         </Grid>
 
@@ -61,10 +61,10 @@
                         <Grid>
 
                             <Image Source="Images/img_setting.png"
-                                   Style="{StaticResource Image_Style}" />
+                                   Style="{StaticResource ImageStyle}" />
 
                             <TextBlock Text="QuickSettngs"
-                                       Style="{StaticResource Text_Style}" />
+                                       Style="{StaticResource TextStyle}" />
 
                         </Grid>
 
@@ -75,10 +75,10 @@
                         <Grid>
 
                             <Image Source="Images/img_setting.png"
-                                   Style="{StaticResource Image_Style}" />
+                                   Style="{StaticResource ImageStyle}" />
 
                             <TextBlock Text="Preview"
-                                       Style="{StaticResource Text_Style}" />
+                                       Style="{StaticResource TextStyle}" />
 
                         </Grid>
 
@@ -89,10 +89,10 @@
                         <Grid>
 
                             <Image Source="Images/img_setting.png"
-                                   Style="{StaticResource Image_Style}" />
+                                   Style="{StaticResource ImageStyle}" />
 
                             <TextBlock Text="About"
-                                       Style="{StaticResource Text_Style}" />
+                                       Style="{StaticResource TextStyle}" />
 
                         </Grid>
 
