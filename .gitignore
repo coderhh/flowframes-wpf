@@ -360,3 +360,7 @@ MigrationBackup/
 *.pkl
 *.bin
 *.param
+/.idea/.idea.flowframes-wpf.dir/.idea/vcs.xml
+/.idea/.idea.flowframes-wpf.dir/.idea/indexLayout.xml
+/.idea/.idea.flowframes-wpf.dir/.idea/.gitignore
+/.idea/
